@@ -7,4 +7,6 @@ Key features of the project include:
     2.Handling of HTML content to extract specific information (property names and descriptions).
     3.Logging using Logger.log() to provide information about the scraping process, including error messages if no matches are found or no data is available to write to the sheet.
 
+ for the project to work you should navigate to Google sheets > extensions > Apps script, copy and paste the code on the editor. 
+
 The project provides a basic template for scraping real estate data from a website and can be extended or modified to suit specific needs or to scrape data from different websites.
